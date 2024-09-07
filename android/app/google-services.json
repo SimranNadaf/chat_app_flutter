@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "848431507300",
+    "firebase_url": "https://chap-app-flutter-285f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chap-app-flutter-285f1",
+    "storage_bucket": "chap-app-flutter-285f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848431507300:android:37aeca442eeb3739677c71",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGVLIPNiok0kR9dZBatJXEUw8XNWgxwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
